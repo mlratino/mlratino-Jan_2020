@@ -1,1 +1,1 @@
-![](css/images/mlratino-large.jpg)
+![](css/images/mlratino.jpg)
